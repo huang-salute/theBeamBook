@@ -19,7 +19,7 @@ genop.tab
 book.html
 chapters/contributors.txt
 xml/*.png
-xml/*.png.md6
+xml/*.png.md5
 images/diag-*.png
 site
 .asciidoctor
